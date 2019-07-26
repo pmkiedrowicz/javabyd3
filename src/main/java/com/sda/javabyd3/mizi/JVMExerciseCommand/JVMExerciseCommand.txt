@@ -1,0 +1,138 @@
+------------------
+#exercise01
+vi Main01.java 
+/*package ex01;
+import java.io.IOException;public class Main01{
+	public static void main(String[] args){
+		System.out.println("Hello world (made in vi editor)");
+		System.out.println("Press 'Enter' key to end: ");
+		try{
+		System.in.read();
+		}catch(IOException e){
+			e.printStackTrace();
+		}
+	}
+}*/
+javac Main01.java
+------------------------------
+#exercise02
+java Main01
+---------------------------------
+#exercise03
+mkdir META-INF
+vi MANIFEST.MF
+/*Main-Class: ex01.Main01*/
+ cd ..
+  jar -cmvf META-INF/MANIFEST.MF Main01.jar ex01/Main01.class
+  #exercise04
+   java -jar Main01.jar
+  ----------------------------
+ #exercise05
+ javap -c ex01/Main01.class
+ ------------------------------
+ #exercise06
+ #Edytuje plik
+ vi Main01.java
+ /* // main class code
+ package ex01;
+import java.io.IOException;
+public class Main01{
+	public static void main(String[] args){
+		System.out.println("Hello world (made in vi editor)");
+		System.out.println("Press 'Enter' key to end: ");
+		/**
+		 * Press Enter to finished program
+		 * */
+		try{
+		System.in.read();
+		}catch(IOException e){
+			e.printStackTrace();
+		}
+		/**
+		 * Create Object person
+		 * */
+		 Person person = new Person( "Michal", "Ziolecki", 25 );
+	}
+}
+*/
+#Tworze plik
+ vi Person.java
+/* // Class Person
+package ex01;
+
+public class Person{
+    /**
+    * Field od class Person
+    * */
+    private String name;
+    private String lastName;
+    private int age;
+    /**
+    * Constructor
+    * */
+    public Person(String name, String lastName, int age){
+        this.name = name;
+        this.lastName = lastName;
+        this.age = age;
+    }
+    /**
+     * Setter and Getter below
+     * */
+    public void setName(String name){
+        this.name = name;
+    }
+    public String getName(){
+        return this.name;
+    }
+    public String getLastName() {
+        return lastName;
+    }
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+    public int getAge() {
+        return age;
+    }
+    public void setAge(int age) {
+        this.age = age;
+    }
+} */
+ #Tworze javadoc
+ javadoc -d ~/Desktop/JVM/ ex01/*.java
+
+ ------------------------------
+#exercise07
+ cd ~/Desktop/JVM
+start index.html
+ ------------------------------
+#exercise08
+jdeps -s Main01.class | jdeps -v Main01.class
+ ------------------------------
+#exercise09 
+java ex01.Main01
+jcmd 
+jcmd 6308 MV.flags
+jcmd 6308 VM.uptime
+ ------------------------------
+#exercise10
+Jconsole
+#Wybieram proces
+jvisualVM
+ ------------------------------
+#exercise11
+Jconsole
+#sprawdzam zuzycie
+jvisualVM
+#sprawdzam zuzycie
+ ------------------------------
+#exercise12
+java -Xmx100m ex02.Main11
+ ------------------------------
+#exercise13
+java -XX:+UseG1GC -XX:+UseStringDeduplication ex02.Main11
+ 
+ 
+ 
+ 
+ 
+ 

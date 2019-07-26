@@ -1,0 +1,1 @@
+Message{recipient='Odbiorca', sender='wysylajacy', topic='temat', tag='tag', text='text', localDateTime=2018-04-21T00:33:50.921}

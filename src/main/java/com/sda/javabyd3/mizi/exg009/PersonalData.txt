@@ -1,0 +1,1 @@
+[{"name":"abc","surname":"cba","telefonNumber":"123","mailAddress":"xyz@wp.pl"},{"name":"xyz","surname":"zyx","telefonNumber":"123456789","mailAddress":"xyz@wp.pl"},{"name":"Tomek","surname":"Haker","telefonNumber":"123456789","mailAddress":"xyz@wp.pl"},{"name":"Michal","surname":"Ziolecki","telefonNumber":"730168444","mailAddress":"michalziolecki@op.pl"}]

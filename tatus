@@ -1,0 +1,788 @@
+[33mcommit c19f54d3cca22d0e0e4715d10fde0fa9cced1e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Michał Grabowski <ufol666@gmail.com>
+Date:   Sat Mar 10 15:11:09 2018 +0100
+
+     adding excersises
+
+[33mcommit f9d36625477cf69aca0f38f163d4100f136ba90b[m
+Merge: 6ea3a63 4f50eed
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 15:09:52 2018 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 6ea3a636d62cf6a35fb2e7ffe4f45fd653e3073c[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 15:09:21 2018 +0100
+
+    Zadania003 zad5
+
+[33mcommit 4f50eed1518a0168007cf388acdfbdd3eb16370a[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sat Mar 10 15:05:21 2018 +0100
+
+    small fixes in ex05 to kawa-exg003-ogolne
+
+[33mcommit ded4ad9b9bbd31d83b3f17c028c5f4d6d7c72041[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sat Mar 10 15:04:25 2018 +0100
+
+    added completed task 4 of general, exg003
+
+[33mcommit f530c91e94da90cf913ea429f8c0b78c8b2c0427[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sat Mar 10 14:57:22 2018 +0100
+
+    added ex05 to kawa-exg003-ogolne
+    added tests ex05
+
+[33mcommit d7a83cb3611fd975fb39e8a228a88ce9a106113b[m
+Author: Łukasz Sierakowski <javabyd3user@gmail.com>
+Date:   Sat Mar 10 14:45:44 2018 +0100
+
+    Added exercise ex003/ex04
+
+[33mcommit 7369331cf6bbb2eab52e3eccf63e14108b8fc19a[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Sat Mar 10 14:35:37 2018 +0100
+
+    correcting package in Ogolne_3Test
+
+[33mcommit b4d86447c495f2860ca156ef1000149d16990c07[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Sat Mar 10 14:19:33 2018 +0100
+
+    adding exercises Ogolne1-5 with tests
+
+[33mcommit d0cbc7e75d2ccbe0176d19a802f54b9825472114[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sat Mar 10 14:19:17 2018 +0100
+
+    added completed task 3 general of exg003
+
+[33mcommit c65e1cfda5ae603110a26333233a302e8956f67f[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sat Mar 10 14:12:05 2018 +0100
+
+    added ex04 to kawa-exg003-ogolne
+    added tests ex04
+
+[33mcommit 6de9f200ba80beb46bc09af916ebafab4085bb12[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:51:58 2018 +0100
+
+    Zadania003 test zad3
+
+[33mcommit 974410dc01eb25eaba2a4dc54abc1a268c2c1406[m
+Merge: d52409f c7903bb
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:46:34 2018 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit d52409fe0e38f39146d32ca6a32eb9a7d9e3c3d0[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:46:02 2018 +0100
+
+    Zadania003 zad3
+
+[33mcommit c7903bbd35bf7bb97205494c0f1cf371631c1b2c[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sat Mar 10 13:30:50 2018 +0100
+
+    added completed task 1&2 of general exg003
+
+[33mcommit 6aa264ea4cc267e1463fa6f3da155730b48bb528[m
+Author: Łukasz Sierakowski <javabyd3user@gmail.com>
+Date:   Sat Mar 10 13:28:15 2018 +0100
+
+    Added exercises
+
+[33mcommit 903a86b3836e135a942d230916c5236d4069105f[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:25:37 2018 +0100
+
+    Zadania003 test zad3
+
+[33mcommit 7de80beb837825837e062d6c60295b5a254adcd1[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:13:48 2018 +0100
+
+    Zadania003 test zad2
+
+[33mcommit 87bedcda0764dc4da331bedd0f3429645dde1fa2[m
+Merge: 91bde46 4f32783
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:07:00 2018 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 91bde4694759aa8dce48fb4b82400e03ce5b60ae[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 13:06:17 2018 +0100
+
+    Zadania003 test zad1
+
+[33mcommit 4f32783983d3eec762037be41afd5d200ddb7e69[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sat Mar 10 13:04:01 2018 +0100
+
+    added ex(01,02,03) to kawa-exg003-ogolne
+    added tests ex(01,02,03)
+
+[33mcommit 228da014e574a06aa727e62a9eb9c6b82336f9b4[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 12:22:36 2018 +0100
+
+    Zadania003 zad3
+
+[33mcommit dd694e56323fa54b76952d6829e74f32c54610fa[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 12:17:00 2018 +0100
+
+    Zadania003 zad2
+
+[33mcommit 4f319b42659402195a9545f9b04f3f935d74a20b[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sat Mar 10 12:12:27 2018 +0100
+
+    Zadania003 zad1
+
+[33mcommit 9e1ffeb47f125fa5168dd3f231d8e0a0c89c43e7[m
+Author: Łukasz Sierakowski <javabyd3user@gmail.com>
+Date:   Sat Mar 10 10:47:59 2018 +0100
+
+    Added test structure with one test example
+
+[33mcommit 7cfd46dcdfaee7d809d3c5d6d5d6630e487ef170[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Sat Mar 10 10:09:13 2018 +0100
+
+    Adding new exercices
+
+[33mcommit 0aa677d95388301f72a3e29ec730217dfe4d9620[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sat Mar 10 09:50:46 2018 +0100
+
+    checking push
+
+[33mcommit fc120c0b4d858ce42fe5802a3b2d9ba999b9a715[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Sat Mar 10 09:01:29 2018 +0100
+
+    Adding new exercises
+
+[33mcommit 154b5698ad711b6233352414bd5a84d7b199c24b[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Fri Mar 9 21:41:14 2018 +0100
+
+    Adding ex01, ex02, ex03, ex04, ex05, ex06 from exg002
+
+[33mcommit 102dea1769b3a19aca8514529ebf93fdb127b5e5[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Fri Mar 9 21:25:48 2018 +0100
+
+    Adding ex18, ex19, ex20, ex21 from exg001
+
+[33mcommit d4076457bb7b6ae3dc7db3f54cc0046188d7820b[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Fri Mar 9 21:13:41 2018 +0100
+
+    Adding ex13, ex14, ex14, ex15, ex16, ex17 from exg001
+
+[33mcommit b53bad575c2351a507df3f5a1a571b0d520f3a73[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Fri Mar 9 20:59:15 2018 +0100
+
+    Adding ex07, ex08, ex09, ex10, ex11 from exg001
+
+[33mcommit c3930227f177ed8754d3320791147b60bc661c96[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Fri Mar 9 20:40:51 2018 +0100
+
+    Adding ex01, ex02, ex03, ex04, ex05, ex06 from exg001
+
+[33mcommit 35c512cb03d51d2da62a35184f60d5746f657e24[m
+Author: Daniel Olszewski <daniel.olszewski@int.pl>
+Date:   Fri Mar 9 20:11:25 2018 +0100
+
+    add ex's (07,08,09,10,11,12,13,14,15,16,17) from exg001
+
+[33mcommit 514559f4d22c0f6e3e13d7593015cd3a81529714[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Fri Mar 9 15:20:13 2018 +0100
+
+    added ex(01,02,03) - Watki
+
+[33mcommit 797b54655708ad3ec9346b16a1e49858d3b03f68[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Fri Mar 9 14:42:15 2018 +0100
+
+    added ex05 - Streamy
+
+[33mcommit d0cadd6241df3e6904eac93f5dadfa264b1dc7e7[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Fri Mar 9 11:47:00 2018 +0100
+
+    added completed task 4 of threads
+
+[33mcommit 3e100ffa7898cab3a041364eb3eec14922b6f13c[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Fri Mar 9 11:18:53 2018 +0100
+
+    added completed task 3 of threads
+
+[33mcommit 44f96446a6e0d518dadfaa2a1ad051596a904160[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Fri Mar 9 10:41:28 2018 +0100
+
+    modified exercises
+
+[33mcommit 66e4f6955e7d17a4177507fd235309b69e41e925[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Fri Mar 9 10:13:20 2018 +0100
+
+    adding exercise Tablice_7 + tests
+
+[33mcommit d182a758a18fbc8e267b2bea0ef25b7dcea5108e[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Fri Mar 9 09:04:57 2018 +0100
+
+    adding exercise Tablice_6
+
+[33mcommit 028307a69ec05f0cc328878ad920b637dfc2f647[m
+Author: Michal Ziolecki <michal.ziolecki@op.pl>
+Date:   Fri Mar 9 00:30:11 2018 +0100
+
+    Wszystkie zadania z 001 i 002 plus kilka dodatkowych z pliku od marty
+
+[33mcommit 2f77ec773b7b3e3e5b4b453ad9dd0281e0e5a7ce[m
+Merge: f7a078b 1c5019a
+Author: Michal Ziolecki <michal.ziolecki@op.pl>
+Date:   Thu Mar 8 14:43:04 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/javabyd3user/javabyd3all
+    
+    * 'master' of https://bitbucket.org/javabyd3user/javabyd3all:
+      added ex(01,02,03,04) - Streamy
+
+[33mcommit f7a078b8d20c40c48afd0ef2da30fea091729f1d[m
+Author: Michal Ziolecki <michal.ziolecki@op.pl>
+Date:   Thu Mar 8 14:36:54 2018 +0100
+
+    wszystkie zadania 001
+
+[33mcommit 1c5019a710ed4be707b829213d18476fd8d1ffc2[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Thu Mar 8 14:40:22 2018 +0100
+
+    added ex(01,02,03,04) - Streamy
+
+[33mcommit be2317f7b7f35cc9632358771b58c2b5634db6ac[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Thu Mar 8 13:45:35 2018 +0100
+
+    added ex04, ex05 - kolekcje
+
+[33mcommit ae12799f81abb04c263df64508e1220fd5cc5ebb[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Thu Mar 8 06:07:34 2018 +0100
+
+    Adding new exercises
+
+[33mcommit 88d37a8b3f3421535ae528e968a682ce55ce82ae[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 22:27:24 2018 +0100
+
+    adding exercise Tablice_5
+
+[33mcommit 77867278933d196cbe0b0245e1ceab77eadfaaaf[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 22:03:13 2018 +0100
+
+    adding exercise Tablice_4
+
+[33mcommit c508906e974673d0c62b49f723986c5d241dba79[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 20:01:07 2018 +0100
+
+    adding exercise Tablice_3
+
+[33mcommit 2a46e25687495a46c1943513ca170e8dee7ffa9f[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 19:42:15 2018 +0100
+
+    adding exercise Tablice_2
+
+[33mcommit c746f7f5ce68016b73a6e80bee5cd36f0ce1e2cc[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 19:33:05 2018 +0100
+
+    adding exercise Tablice_1
+
+[33mcommit 72efca90f5eb58c4fc5a133aacd3452565bc2c50[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Wed Mar 7 16:40:29 2018 +0100
+
+    added ex03 - kolekcje
+
+[33mcommit 923fd7dec432f0a15135f7991b9ced8f31f00f38[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Wed Mar 7 15:59:53 2018 +0100
+
+    added ex02 - kolekcje
+
+[33mcommit 63c38013239b847412f9a95e8c70982e6d3c680a[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 15:21:19 2018 +0100
+
+    adding exercise Watki_4
+
+[33mcommit 7b173e1b516fb2698855c8e7d5e068e1712b9b05[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 14:35:45 2018 +0100
+
+    adding exercise Watki_3
+
+[33mcommit a6f6d0e2e1fcef42e844c504410eec7d10cce124[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Wed Mar 7 14:27:45 2018 +0100
+
+    reworked packages structure, added ex01 'kolekcje'
+
+[33mcommit ecee5691f3446df3e8bacdcaed3d4d33f4df2dd5[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 13:39:19 2018 +0100
+
+    adding exercises Watki1-2
+
+[33mcommit fc5e1c76129022c7ac39337445c25476873d87fb[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 11:13:20 2018 +0100
+
+    adding exercises Stream1-5
+
+[33mcommit 5613e8682295b25ccea4ea984a83d928ca938f07[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 11:06:22 2018 +0100
+
+    adding exercises Kolekcje1-5
+
+[33mcommit d7d274cd7ed5555720eb54959449d9d90d334950[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 10:59:16 2018 +0100
+
+    adding exercise Ogolne_6
+
+[33mcommit 1b720b9a3711672324f4f2b302608232a03b154d[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 10:52:04 2018 +0100
+
+    minor adjustments in exercises Ogolne2-4
+
+[33mcommit ed23f34b130b2f401d03207334fbeb69e631cd2c[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Wed Mar 7 10:39:01 2018 +0100
+
+    building directories tree
+
+[33mcommit b46eb11ffa34a223fbfb30ec073fbf62e9f952df[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Wed Mar 7 05:55:38 2018 +0100
+
+    Adding new exercises
+
+[33mcommit 02e46733914707c66092d61a8ce2dc2eb37d5076[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Wed Mar 7 05:47:05 2018 +0100
+
+    Adding next exercises
+
+[33mcommit 891bd864611282f6f4510cca2867150c86fc41ac[m
+Author: Michal Ziolecki <michal.ziolecki@op.pl>
+Date:   Tue Mar 6 23:01:59 2018 +0100
+
+     Zadania z grupy 001 - narazie bez watkow
+
+[33mcommit b36da772a14eaa67e52a2d58a7e30c27056eb57b[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Tue Mar 6 20:32:48 2018 +0100
+
+    Zadania ogólne wszystkie
+
+[33mcommit 9ce329e4353afd192d72b78cd9993540918fdb1d[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Tue Mar 6 20:24:34 2018 +0100
+
+    Zadania ogólne
+
+[33mcommit 7dc4ee8214e80a4ea3a3348ea9c61c270053b5cb[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Tue Mar 6 19:41:52 2018 +0100
+
+    fixed task 2 of threads
+
+[33mcommit c8ca67887d1ffe6ab4327afc3211f4514e5ca052[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Tue Mar 6 19:10:39 2018 +0100
+
+    added completed task 2 of threads
+
+[33mcommit cab84b5a2b45adc83512f7892eee8fd8503bcd10[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Tue Mar 6 18:44:50 2018 +0100
+
+    added ex06
+
+[33mcommit 8fd28452b6c75b44cba68cb614b3e0730f64e277[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Tue Mar 6 16:47:28 2018 +0100
+
+    just a small change in ex5 :)
+
+[33mcommit d444ef2d9ef34833537c6011a88476989b90481a[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Tue Mar 6 16:28:55 2018 +0100
+
+    added ex5
+
+[33mcommit 16e577b5b76ecd4dd85029b2cf9311b46bd8c3e8[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Tue Mar 6 11:44:02 2018 +0100
+
+    adding small corrects to Ogolne_2
+
+[33mcommit 88c0ddcc7d343d22657d6fd3b293b6b16810d2a7[m
+Author: Urszula Dutkiewicz <laures666@wp.pl>
+Date:   Mon Mar 5 23:22:10 2018 +0100
+
+    Adding task6 to repository
+
+[33mcommit 157d1eb6356cebcc7335e29496042b667b964398[m
+Author: Urszula Dutkiewicz <laures666@wp.pl>
+Date:   Mon Mar 5 23:04:31 2018 +0100
+
+    Adding task4 to repository
+
+[33mcommit 9205ea5db5d9dfd1e993297b51f57edd9756de2a[m
+Author: Urszula Dutkiewicz <laures666@wp.pl>
+Date:   Mon Mar 5 22:54:46 2018 +0100
+
+    Adding task3 to repository
+
+[33mcommit 8ec8b2d1ecd04d2d712fbe2c84f250682fedd086[m
+Author: Urszula Dutkiewicz <laures666@wp.pl>
+Date:   Mon Mar 5 22:48:28 2018 +0100
+
+    Adding first version of task2
+
+[33mcommit 7f7065e6c2ddf4f2fc8ccf2ad1ff74354f7eab33[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 21:26:18 2018 +0100
+
+    added completed task 5 of collections
+
+[33mcommit c7790ac4fd3458aebf2a4a3301274eb0ce7e4e69[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 21:12:39 2018 +0100
+
+    added completed task 4 of collections
+
+[33mcommit f8c3e80c59a0bbf249a2f70cec2925f427b0f64e[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 20:55:03 2018 +0100
+
+    added completed task 3 of collections
+
+[33mcommit c85b57e2940ed9dcffb9ffc8b1517a7c348ce79f[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 20:13:06 2018 +0100
+
+    added completed task 2 of collections
+
+[33mcommit 32535600eca56ab3ba97932c737282ea934235b1[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 19:59:35 2018 +0100
+
+    added completed task 2 of threads
+
+[33mcommit f80ca3744d4851ff8080c42b0ff35bb24fe787e0[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 15:08:36 2018 +0100
+
+    added completed task 1 of threads
+
+[33mcommit 7b4cdd98a9aeb2635901c583a4e0412b7c3b19b1[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 10:31:32 2018 +0100
+
+    added completed task 1 of threads
+
+[33mcommit 175d2f8fb6918435b2d4d189025966402012f40a[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Mon Mar 5 10:30:56 2018 +0100
+
+    added completed task 1 of threads
+
+[33mcommit d89cf47b6384f0faee22edb704dbd080938fc1a9[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Mon Mar 5 05:29:17 2018 +0100
+
+    Adding new solutions to ex001
+
+[33mcommit c862bbfbb7392e209e1fcfa69df1591fe7eaaa9f[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 21:43:08 2018 +0100
+
+    added completed task 4 of streams
+
+[33mcommit 66abe4deac192e9afea9474b235eb46188b194a6[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 21:33:17 2018 +0100
+
+    added completed task 3 of streams
+
+[33mcommit 0d4e24a925fb247e750c4e5a82594c68e31c1eac[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 20:58:46 2018 +0100
+
+    added completed task 2 of stream
+
+[33mcommit 188ed56e4f2057d7bff56c551cd1aa459be3eb01[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 20:43:42 2018 +0100
+
+    Revert "added completed tast 1 of stream"
+    
+    This reverts commit 259d1a2dfd35a6599a9ff596f8ca2b5b15df9a57.
+
+[33mcommit fcc7bb981cb562866a0029d26fb44b5da5cf4531[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 20:37:24 2018 +0100
+
+    added completed task 2 of stream
+
+[33mcommit 259d1a2dfd35a6599a9ff596f8ca2b5b15df9a57[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 20:24:28 2018 +0100
+
+    added completed tast 1 of stream
+
+[33mcommit 913f580b5796f08d7093c77e18df5d0ee3bd2b60[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 20:23:34 2018 +0100
+
+    added completed tast 1 of stream
+
+[33mcommit 9db5321432ba9bcce81fb5e22ecca5a29838c48f[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Sun Mar 4 16:03:01 2018 +0100
+
+    exercises 1-4 correcting packages
+
+[33mcommit 2c04d7e9bb60050c5319f500252f27807f63e904[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Sun Mar 4 15:53:39 2018 +0100
+
+    adding exercises 1-4 (don't judge me pls)
+
+[33mcommit b7eaf964f302b1efa2d62b4fca39c39281ccf906[m
+Author: Łukasz Sierakowski <lukasz.sierakowski@mobica.com>
+Date:   Sun Mar 4 15:32:20 2018 +0100
+
+    Adding exercise 05 form exercise group 001 - 001/05
+
+[33mcommit 55b5a2e7f48bfd44c6f635af5bf383dbaf19068a[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sun Mar 4 15:26:49 2018 +0100
+
+    updated solved exercises 1, 2, 3 and 4
+
+[33mcommit 33f6cafe320f03507a43999cf70dc2cdd43b0683[m
+Author: Daniel Olszewski <daniel.olszewski@int.pl>
+Date:   Sun Mar 4 15:15:09 2018 +0100
+
+    Adding 6 example (01,02,03,04,05,06) from exg001
+
+[33mcommit 2ab776674e64276090704fa3e7d94e64dcfc7d07[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Sun Mar 4 15:08:48 2018 +0100
+
+    Adding ex01 and ex02 from exg001
+
+[33mcommit f8d7b5f8a9abdf2266df4e3b8e83b75dd2812fd0[m
+Author: Urszula Dutkiewicz <laures666@wp.pl>
+Date:   Sun Mar 4 15:02:23 2018 +0100
+
+    Change example nr 1 name
+
+[33mcommit 746785a205adad843dc9565fdde6bdb08862c6b8[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Sun Mar 4 14:57:42 2018 +0100
+
+    Adding ex01 from exg001
+
+[33mcommit f08b4a53b57e37245d33c965303af1d842206cc0[m
+Merge: 1383663 ca03b82
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sun Mar 4 14:58:20 2018 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1383663bc37086a8e0d9d8a0d63c880d20e474a2[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sun Mar 4 14:57:42 2018 +0100
+
+    Zadanie4
+
+[33mcommit ca03b82817d72a8f2a4d58568f4d350b00175e05[m
+Author: Urszula Dutkiewicz <laures666@wp.pl>
+Date:   Sun Mar 4 14:55:54 2018 +0100
+
+    Adding exemple nr1
+
+[33mcommit 672edefd570a5ceab61ad32ec5ab85ddc6eecd1d[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sun Mar 4 14:54:04 2018 +0100
+
+    Zadanie4
+
+[33mcommit a140f768af97ac6e242296a60f67b2c1ddbe8b5b[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 14:00:44 2018 +0100
+
+    added completed task 3
+
+[33mcommit d998e5351926c0eb4f5f890679442fc13feec078[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 13:59:33 2018 +0100
+
+    added completed task 2
+
+[33mcommit b15d4428daaf3533d39225a2f51ae6dccee55d11[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 13:43:57 2018 +0100
+
+    dodano zadanie1
+
+[33mcommit 92705ec4f6d0016ab149299848796dd6078d1c97[m
+Author: Grzegorz Ratajczak <gregory.ratajczak@gmail.com>
+Date:   Sun Mar 4 13:32:15 2018 +0100
+
+    my 1 task
+
+[33mcommit 202370a6772deeaf6428328e75844fe86a9f0f26[m
+Author: Grzegorz Ratajczak <gregory.ratajczak@gmail.com>
+Date:   Sun Mar 4 13:31:11 2018 +0100
+
+    my 1 task
+
+[33mcommit e5fdca688eba726fb44ae30d3bcefc46f9b93500[m
+Author: Sylwester Garstecki <garsteckisylwester@gmail.com>
+Date:   Sun Mar 4 13:23:47 2018 +0100
+
+    dodano syga
+
+[33mcommit 6a9ee2c369c69b89e5b0fccfa97d1fd229831aa5[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sun Mar 4 13:18:52 2018 +0100
+
+    added package 'kawa'
+
+[33mcommit 5ba01825e5a39c71a924267d40a6219dfc140a43[m
+Author: Karol Wawrzyniak <karollo47@gmail.com>
+Date:   Sun Mar 4 13:15:10 2018 +0100
+
+    added new package 'kawa' as a copy of lusi :)
+
+[33mcommit 90242357471fb3f552c22d96e41657ca54b076b5[m
+Author: Grzegorz Ratajczak <gregory.ratajczak@gmail.com>
+Date:   Sun Mar 4 13:25:13 2018 +0100
+
+    my changes
+
+[33mcommit c4a0abb275d1f48bb2a72fda699525f95ccfcb3b[m
+Author: Kamil <kamil.dembski@interia.pl>
+Date:   Sun Mar 4 13:21:21 2018 +0100
+
+    initial package structure
+
+[33mcommit 9711b7a7ce02db84835bc130df4359bff1cdb1a3[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 13:19:25 2018 +0100
+
+    dodano toki
+
+[33mcommit 51360fb1665543096837c3fb78832d061ff00a94[m
+Author: Tomasz Kiedrowicz <pmkiedrowicz@gmail.com>
+Date:   Sun Mar 4 13:18:12 2018 +0100
+
+    dodano toki
+
+[33mcommit a7ddc1fcf64f30a7d85a27eebda6be21af4a925e[m
+Author: Michał Grabowski <ufol666@gmail.com>
+Date:   Sun Mar 4 13:16:32 2018 +0100
+
+    g
+
+[33mcommit 0e604b42c5050194d2dc4e0fabfa97e1ad787740[m
+Author: Wojtek Wasilewski <w.wasilewski@gmail.com>
+Date:   Sun Mar 4 13:13:58 2018 +0100
+
+    adding ww files
+
+[33mcommit 87e3ab8d8ae5b52d92eed8670638f17c2fbc09f8[m
+Author: Laures <laures666@wp.pl>
+Date:   Sun Mar 4 13:08:44 2018 +0100
+
+    Adding urdu package
+
+[33mcommit 2521263bc35f361e272f78e9371888350e3658d5[m
+Author: Daniel Olszewski <daniel.olszewski@int.pl>
+Date:   Sun Mar 4 13:10:45 2018 +0100
+
+    first adding
+
+[33mcommit 6f432af201b44fb0d67bcd089904c78ccf8d050b[m
+Merge: 517febe 2b4a491
+Author: Grzegorz Ratajczak <gregory.ratajczak@gmail.com>
+Date:   Sun Mar 4 13:12:12 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/javabyd3user/javabyd3all
+
+[33mcommit 2b4a491130db0379954397b28fc38bd3c4389cb0[m
+Merge: 31888ad 454e66e
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sun Mar 4 13:11:35 2018 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 31888ad71ef5e4f1779fb81c8ea5b86028bc640f[m
+Author: Marcin Brozdowski <mabroz77@gmail.com>
+Date:   Sun Mar 4 13:11:04 2018 +0100
+
+    mabr
+
+[33mcommit 454e66e3eeecef3e3b8049353ed7caec9d627a1d[m
+Author: Jagoda_Jarzebowska <jagoda.jarz@gmail.com>
+Date:   Sun Mar 4 13:10:09 2018 +0100
+
+    first adding
+
+[33mcommit 517febe9c7cb816e35cce847844d0f14cf893a29[m
+Author: Grzegorz Ratajczak <gregory.ratajczak@gmail.com>
+Date:   Sun Mar 4 13:09:21 2018 +0100
+
+    wszystko grra
+
+[33mcommit 4770da73ff1e3af2a59f3cfa344ac4c0ee19dbbc[m
+Author: Łukasz Sierakowski <lukasz.sierakowski@mobica.com>
+Date:   Sun Mar 4 12:45:07 2018 +0100
+
+    Initial repository structure
+
+[33mcommit eddcb56062e640ef8000b69b6c9bca69a4fe63e0[m
+Author: javabyd3user <javabyd3user@gmail.com>
+Date:   Sun Mar 4 11:13:14 2018 +0000
+
+    Initial commit

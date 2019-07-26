@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sda.javabyd3.mizi.JavaFX.exg009.guiZad1egx009">
+   <children>
+       <Label prefHeight="31.0" prefWidth="180.0" visible="false">
+           <font>
+               <Font size="17.0" />
+           </font>
+       </Label>
+      <Label fx:id="labelHello" alignment="TOP_CENTER" layoutX="100.0" layoutY="100.0" prefHeight="41.0" prefWidth="329.0" text="Podaj Liczbe do wypisania jako tekst: " textAlignment="CENTER" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label visible="false" />
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+
+            <TextField prefHeight="32.0" prefWidth="149.0" visible="false" />
+            <TextField fx:id="textField" onKeyPressed="#textFieldGetAction" prefHeight="25.0" prefWidth="173.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Label fx:id="labelWhereAnswer" prefHeight="17.0" prefWidth="171.0" text="                   Odpowiedź:">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="labelAnswer" prefHeight="17.0" prefWidth="125.0" text="           -----------" textAlignment="CENTER">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <Button fx:id="buttonZmien" mnemonicParsing="false" onAction="#clickMeButtonToSwitch" text="Zamień" />
+      <HBox prefHeight="100.0" prefWidth="200.0" />
+   </children>
+</VBox>

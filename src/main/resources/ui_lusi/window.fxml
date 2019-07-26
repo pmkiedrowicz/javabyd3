@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sda.javabyd3.lusi.javafx.ex01.WindowControler">
+    <children>
+        <Button fx:id="msgBox" layoutX="22.0" layoutY="28.0" mnemonicParsing="false" onAction="#showMessageBox"
+                text="Show Message Box"/>
+        <Button fx:id="warningButton" layoutX="22.0" layoutY="73.0" mnemonicParsing="false"
+                onAction="#onWarningButtonClick" text="Warning dialog"/>
+        <Button fx:id="errorButton" layoutX="22.0" layoutY="118.0" mnemonicParsing="false"
+                onAction="#onErrorButtonClick" text="Error dialog"/>
+        <Button layoutX="22.0" layoutY="168.0" mnemonicParsing="false" onAction="#onConfirmationButtonClick"
+                text="Confirmation dialog"/>
+    </children>
+</AnchorPane>
